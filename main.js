@@ -14,5 +14,3 @@ function frameLooper() {
 }
 
 frameLooper();
-
-// document.write(textArray);
