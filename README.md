@@ -1,6 +1,6 @@
 # Live Screen Typing
 
-This is JavaScript code that will type one letter at a time on the web page. This code snippet can be placed in any JS file to add this typing functionality.
+This is JavaScript code that will type one letter at a time on a web page. This code snippet can be placed in any JS file to add this typing functionality.
 
 :smile:&nbsp;&nbsp;`Happy Coding`&nbsp;&nbsp;:smile:
 
@@ -14,5 +14,5 @@ This is JavaScript code that will type one letter at a time on the web page. Thi
 <br/>
 <br/>
 
-:octocat:&nbsp;&nbsp;#Live Screen Typing&nbsp;&nbsp;:octocat: <br/>
+:octocat:&nbsp;&nbsp;Live Screen Typing&nbsp;&nbsp;:octocat: <br/>
 :bowtie:&nbsp;&nbsp;A Gabe A. Production&nbsp;&nbsp;:bowtie:
